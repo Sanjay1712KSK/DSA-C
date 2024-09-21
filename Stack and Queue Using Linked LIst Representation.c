@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
+
+//Remove the comments to execute the program
+
 //Stack using linked list representation
 
 /*struct node{
